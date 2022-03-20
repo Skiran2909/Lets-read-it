@@ -1,0 +1,56 @@
+ {
+    margin: 0;
+    padding: 0;
+}
+#all { padding: 20px;  margin: 10px; }
+
+#heading   { background-color: #e4964e; 
+margin: -0.9%;
+padding: 10px;}
+
+#wholepage  {  background-image: url(https://img.freepik.com/free-vector/neutral-soft-abstract-watercolor-background_53876-97742.jpg?t=st=1647774218~exp=1647774818~hmac=9d3a023582de9d12f35e5dbe4121321df435568e60185c1af4a159c0326d60d6&w=360  )  ; 
+background-repeat:round;
+background-size: cover; 
+background-blend-mode:saturation;  padding: 0px;}
+
+#intro { background-color: #f0cbb3;  
+padding:10px;    margin: 0px;    font-size: 20px;  font-style: monteserat; }
+
+#lightphoto  {    }
+
+.Book-heading { color: #215a04; 
+font size:500px }
+
+.Book-image { color: rgb(21, 4, 37);
+border-radius: 100px ;  }
+
+.Div2 {
+    padding: 300px;
+    text-align: center;
+}
+
+.Book-list {padding: 00px;
+text-align: center;
+font-size: 15px;}
+
+.list1 {}
+
+.Hyperlink { text-decoration:none;}
+
+.footer { background-color: #f0cbb3;  }
+
+#genre  { background-color:#bae7a4; color:#215a04; }
+
+#last  { background-color: #bae7a4   ;   color: aliceblue;   text-decoration: none;
+text-align: right;}
+
+.photo { border-radius: 1000px; }
+
+#top  { background-color: #bae7a4;    table-layout: center;}
+
+.table-body  { color: #215a04;  background-color: #215a04;  width: 100% ; }
+
+#each { margin-left: 10px; padding: 0px;   width:100%;   text-decoration-style:;    text-align: center; display: grid; border-collapse: separate; border-width: 10px; border-spacing: 10px;}
+
+#registration { width: 50%; background-color: #FFBDE6;  margin: 0 auto 10px;   padding: 40px   10px;   border-radius: 15px;  }
+
